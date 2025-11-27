@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smartfarm/static/css/main.1bd99761.css",
+    "main.js": "/smartfarm/static/js/main.d2251f65.js",
+    "static/js/453.0c6d0ae2.chunk.js": "/smartfarm/static/js/453.0c6d0ae2.chunk.js",
+    "index.html": "/smartfarm/index.html",
+    "main.1bd99761.css.map": "/smartfarm/static/css/main.1bd99761.css.map",
+    "main.d2251f65.js.map": "/smartfarm/static/js/main.d2251f65.js.map",
+    "453.0c6d0ae2.chunk.js.map": "/smartfarm/static/js/453.0c6d0ae2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bd99761.css",
+    "static/js/main.d2251f65.js"
+  ]
+}
